@@ -3,7 +3,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Review checklist deploy service UBot
+Review checklist deploy service UBot: (Detail: https://bom.so/yb1Fvv)
 - Checkout source code
 - Develop & Fix bug
 - Self Test
@@ -34,7 +34,7 @@ Review checklist deploy service UBot
 
 ## Self test
 - Tự test lại source code có TÂM trước khi tạo  merge request.
-- Check lại source code đã follow các rule về clean code search google hoặc tham khảo link:            https://github.com/EwayJSC/Eway-Java-Coding-Guidelines
+- Check lại source code đã follow các rule về clean code search google hoặc tham khảo link: https://bom.so/yb1Fvv
     + Tên hàm, biến
     + Độ dài các hàm
     + Cố gắng follow early return trong 1 method
