@@ -157,6 +157,6 @@ Review checklist deploy service UBot
 | Ip |  Server | Service | Enviroment |
 | ------ | ------ |  ------ | ------ |
 | 103.160.84.151 | Ubuntu 18.04 | ActiveMQ-DEV(Port: 61616, 8161), Extract Service Dev(Port: 5555), AP Fontend Service  | Dev |
-| 18.138.178.238 | Centos 7 | MySQL(Port: 39393), Ubot Portal Dev, Elasticsearch Dev(9200) | Dev |
-| 3.0.176.134 | Centos 7 | MySQL(Port: 39393), Ubot Portal Live, AP Backend(Port: 8888) | Live |
-| 192.168.30.50 | Ubuntu 18.04 | MongoDB(Port: 27017), ActiveMQ(Port: 61616) | Live |
+| 18.138.178.238 | Centos 7 | MySQL, Ubot Portal Dev, Elasticsearch Dev(9200) | Dev |
+| 3.0.176.134 | Centos 7 | MySQL, Ubot Portal Live, AP Backend(Port: 8888) | Live |
+| 192.168.30.50 | Ubuntu 18.04 | MongoDB, ActiveMQ | Live |
