@@ -148,7 +148,7 @@ Review checklist deploy service UBot
     + Handle: Đọc id mail đi đồng bộ mail xuống bảng  emails, đẩy vào queue  extract và  database 
     + RPA download: download xml nếu email đồng bộ trước đó  không có  xml đẩy vào queue extract
     + Extract: đọc file xml đẩy invoice vào queue lookup
-    + Lookup: đọc id invoice từ queue đi tra cứu xong đẩy id vào queuê postback
+    + Lookup: đọc id invoice từ queue đi tra cứu xong đẩy id vào queue postback
     + Postback: Đẩy lại luồng data cho khách hàng.
 
 ## Thông tin cấu hình server:
