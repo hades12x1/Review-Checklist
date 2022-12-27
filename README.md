@@ -4,14 +4,9 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 Review checklist deploy service UBot: (Detail: https://bom.so/yb1Fvv)
-- Checkout source code
-- Develop & Fix bug
-- Self Test
-- Tạo merge request
-- Review code
-- Deploy dev
-- Testing
-- Deploy Live
+- Folder: .gitlab/merge_request_templates chứa các merge request template.
+- Nếu project chưa có merge template mẫu: thực hiện coppy folder ".gitlab" vào root project.
+- Chọn 1 trong 3 loại merge request template: Bug, Refactor, Feature trong khi tạo merge request.
 
 ## Checkout source code
 - Luôn pull code mới nhất từ staging và develop hằng ngày và trước khi tạo merge request, đảm bảo code  người push luôn mới nhất so với nhánh merge vào, nếu có tự resolve conflig ở local trước.
