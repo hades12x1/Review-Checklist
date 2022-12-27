@@ -12,9 +12,8 @@
 - Checkout từ nhánh staging.
 - Develop big feature gồm cả fontend và backend nên checkout ra nhánh riêng từ staging, fe và be có thể dev cùng trên nhánh đó, hoặc lấy nhánh đó là nhánh chung cho 2 bên tách ra tiếp.
 - Branch name: 
-    + New feature: dev-[<board-id>]-[<pule-id>]-[<description>]
-    + Bug: hf-[<board-id>]-[<pule-id>]-[<description>]
-    + board_id và pule_id lấy từ task monday.
+    + New feature: dev-[tên_chức_năng]
+    + Bug: hf-[tên_chức_năng]
 
 ## Develop & Fix bug
 - Với task khó, cần new solution mới cần thảo luận  với  tối  thiểu ChungQD,  ChuyenNS  để xem hướng tiếp cận và đánh giá trước khi làm.
